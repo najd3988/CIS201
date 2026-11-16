@@ -1,0 +1,49 @@
+caption{
+    padding: 0 0 0 16px;
+}
+table{
+    border-collapse: collapse;
+    border-width: 2px;
+    width: 40%;
+}
+th{
+    border: 1px solid black;
+}
+td{
+width: 10%;
+padding: 5px;
+border: 1px dotted purple;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(242, 219, 175);
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f9a659;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: rgb(241, 240, 239);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #f3aa44;
+}
